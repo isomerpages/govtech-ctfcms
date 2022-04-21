@@ -22,11 +22,18 @@ sections:
   - infobar:
       title: Timeline
       subtitle: Subtitle
-      description: About a sentence worth of description here
+      description: test
       button: Button text
       url: /faq/
   - resources:
       title: Past Year Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/kh_pay.gif
+      alt: Image alt text
 ---
