@@ -26,7 +26,7 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Media
+      title: Past Year Media
       subtitle: Learn more
       button: View More
 ---
