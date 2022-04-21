@@ -20,7 +20,7 @@ sections:
           description: Page A is important too
           url: /stack-the-flags/
   - infobar:
-      title: Infobar title
+      title: Timeline
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
